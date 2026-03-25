@@ -43,3 +43,12 @@ Archivo: `test_horarios.py`
 2. Ejecutar el archivo principal:
 ```bash
 python horarios.py
+
+## Ejemplo de uso
+
+Curso: DAW  
+Horario:  
+- Lunes: 10:00, 12:00  
+- Miércoles: 09:00  
+
+Búsqueda: clases el lunes a las 10:00 → resultado encontrado  
